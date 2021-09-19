@@ -1,0 +1,43 @@
+.primary-header {
+  text-align: center;
+}
+
+.secondary-header {
+  text-align: center;
+  font-style: italic;
+}
+
+.navbar {
+  text-align: center;
+  background-color: whitesmoke;
+  width: fit-content;
+  height: fit-content;
+  margin: 5px auto;
+  border-radius: 5px;
+}
+
+a {
+  color: black;
+  padding: 5px;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #d68614;
+}
+
+a:visited {
+  color: #d68614;
+}
+
+a:active {
+  color: #d68614;
+}
+
+body {
+  background-color: #ffe4cd;
+}
+
+blockquote {
+  font-style: italic;
+}
